@@ -1,3 +1,4 @@
+This model is created using the resources of blog posts, yt videos and llm's like claude and editors like cursor ai.
 # YOLO with Polygon Point Check:
 
 This repository demonstrates the use of the YOLO object detection model, combined with a utility to check if a point lies within a given polygon.
